@@ -99,9 +99,13 @@
 /* 
     project area css  
 */
+.category{
+    margin-left: 15px;
+}
 .projectGallery {
     display: flex;
     flex-wrap: wrap;
+    padding: 20px;
 }
 
 .projectContent {
@@ -112,6 +116,15 @@
 .ProjectSection h3{
     text-align: center;
     margin-top: 10px;
+}
+.categoryImg{
+    gap: 10px;
+   
+}
+.categoryImg:hover{
+    box-shadow: 8px 8px 15px -2px black ;
+    transition:all 0.5 ease-in;
+   
 }
 
 /* 
