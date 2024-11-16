@@ -20,6 +20,9 @@
     color: black;
     font-family: 'poppins', sans-serif
 }
+.headerbutton{
+    text-align: right;
+}
 .socialicon{
     position: fixed;
    
@@ -71,6 +74,9 @@
 .contentArea h2{
     font-size: 56px;
     line-height: 64px;
+}
+.bannerimg{
+    text-align: right;
 }
 .image{
     text-align: right;
